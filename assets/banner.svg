@@ -1,0 +1,66 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 009</title>
+  <desc>Minimal halftone spatial screenprint: one tiny source-bound anchor, vast paper-toned negative space, limited spot colours, dense-to-sparse dots, and five-language documentation.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <pattern id="paper" width="31" height="27" patternUnits="userSpaceOnUse">
+      <path d="M3 9L12 8M20 22L29 20M7 26L12 25" stroke="#203B3A" stroke-opacity=".055" stroke-width=".8"/>
+      <circle cx="23" cy="7" r=".65" fill="#203B3A" fill-opacity=".07"/>
+    </pattern>
+    <pattern id="dotsDense" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2.5" cy="2.5" r="2.1" fill="#315C5B" fill-opacity=".78"/>
+      <circle cx="7.5" cy="7.5" r="2.1" fill="#315C5B" fill-opacity=".78"/>
+    </pattern>
+    <pattern id="dotsMid" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.8" fill="#315C5B" fill-opacity=".56"/>
+    </pattern>
+    <pattern id="dotsSparse" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1.25" fill="#315C5B" fill-opacity=".36"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#EDE8D7"/>
+    <rect width="1200" height="400" fill="url(#paper)"/>
+
+    <path d="M650 273H1180" stroke="#315C5B" stroke-width="1" stroke-opacity=".48"/>
+    <path d="M650 276H860V397H650Z" fill="url(#dotsDense)"/>
+    <path d="M860 276H1012V397H860Z" fill="url(#dotsMid)"/>
+    <path d="M1012 276H1200V397H1012Z" fill="url(#dotsSparse)"/>
+    <path d="M650 273H850" stroke="#B04E3D" stroke-width="2" stroke-opacity=".72"/>
+
+    <g transform="translate(884 214)">
+      <path d="M0 58L18 18L51 0L79 16L94 55L76 74L23 75Z" fill="#203B3A"/>
+      <path d="M18 18L42 28L51 0" stroke="#EDE8D7" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M42 28L76 74" stroke="#EDE8D7" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="64" cy="22" r="5" fill="#D85A42"/>
+    </g>
+
+    <text x="903" y="180" fill="#203B3A" font-family="Arial, sans-serif" font-size="12" letter-spacing="4">AFTER THE DISTANCE</text>
+    <text x="903" y="198" fill="#203B3A" fill-opacity=".63" font-family="Arial, sans-serif" font-size="8" letter-spacing="2.2">ONE SUBJECT · ONE DIRECTION · ONE RELATION</text>
+    <path d="M885 188H895" stroke="#D85A42" stroke-width="2"/>
+
+    <text x="1162" y="42" text-anchor="end" fill="#203B3A" fill-opacity=".58" font-family="Arial, sans-serif" font-size="11" font-weight="700">中文 · EN · 日本語 · 한국어 ·</text>
+    <text x="1162" y="59" text-anchor="end" direction="rtl" fill="#203B3A" fill-opacity=".58" font-family="Arial, sans-serif" font-size="11" font-weight="700">العربية</text>
+  </g>
+
+  <g transform="translate(64 54)">
+    <text x="0" y="20" fill="#203B3A" font-family="Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.4">🦁 XXD / IMAGE SKILL</text>
+    <text x="0" y="111" fill="#203B3A" font-family="Arial Black, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="-4">PANEL <tspan fill="#D85A42">009</tspan></text>
+    <text x="2" y="151" fill="#203B3A" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1.1">TINY ANCHOR · VAST SPACE · HALFTONE FADE</text>
+    <text x="2" y="193" fill="#203B3A" font-family="sans-serif" font-size="18" font-weight="700">极简网点空间版画 · 一个锚点，一种关系</text>
+    <text x="2" y="222" fill="#203B3A" fill-opacity=".72" font-family="sans-serif" font-size="14" font-weight="600">極簡ハーフトーン空間版画 · 미니멀 망점 공간 판화</text>
+    <text x="2" y="251" fill="#203B3A" fill-opacity=".72" font-family="Arial, sans-serif" font-size="14" font-weight="600">طباعة مكانية دنيا بنقاط نصفية</text>
+  </g>
+
+  <g transform="translate(64 327)">
+    <rect width="153" height="37" rx="7" fill="#203B3A"/>
+    <text x="76.5" y="24" text-anchor="middle" fill="#EDE8D7" font-family="Courier New, monospace" font-size="12" font-weight="900">SOURCE-BOUND</text>
+    <rect x="165" width="102" height="37" rx="7" fill="#D85A42"/>
+    <text x="216" y="24" text-anchor="middle" fill="#EDE8D7" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+    <rect x="279" width="180" height="37" rx="7" fill="#9CB1A7"/>
+    <text x="369" y="24" text-anchor="middle" fill="#203B3A" font-family="Courier New, monospace" font-size="12" font-weight="900">WALLPAPER PACK</text>
+    <rect x="471" width="147" height="37" rx="7" fill="#D6C277"/>
+    <text x="544.5" y="24" text-anchor="middle" fill="#203B3A" font-family="Courier New, monospace" font-size="12" font-weight="900">RASTER ONLY</text>
+  </g>
+</svg>

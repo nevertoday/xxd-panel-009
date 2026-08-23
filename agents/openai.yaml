@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 009"
+  short_description: "Create minimal halftone spatial screenprints."
+  default_prompt: "Use $xxd-panel-009 to translate my photo into one small source-bound anchor, vast paper-toned negative space, limited spot colours, dense-to-sparse halftone, and integrated editorial type; ask first for modes and copy or locale preferences."
