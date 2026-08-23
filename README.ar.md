@@ -47,11 +47,25 @@ XXD Panel 009 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **أثر طباعة مادي:** يبقى ملمس الورق والحبر وانزياح التسجيل وتفاوت التحبير من دون مرشح اتساخ رخيص.
 - **تدخل نصي ذكي:** يدخل عنوان شديد القصر ونص مجهري مقتصد في الأفق أو المحيط أو المحور أو حدّ النقاط أو الفراغ السلبي.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 009 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
 
-ستعرض النماذج القادمة قدرة 009 على التكيف فقط، ولن تصبح موضوعاتها أو استعاراتها أو ألوانها أو نصوصها أو نسبها مراجع للتوليد أو قيماً افتراضية.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 009 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ومنطق مكاني واحد بالنقاط النصفية
 

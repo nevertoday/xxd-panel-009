@@ -45,11 +45,25 @@ XXD Panel 009 は、Codex と互換 Agent のための画像生成 Skill です�
 - **物理的な印刷感：** 紙目、インク、わずかな見当ずれ、着肉の揺れを残し、安価な汚し加工は避けます。
 - **知的な文字介入：** ごく短い題と少量の小文字を地平線、輪郭、軸、網点境界、負形へ入れます。
 
-## 作例 · 近日追加
+## 作例 · X より
 
-リポジトリには将来の作例用に [`assets/examples/`](assets/examples/) を用意しています。プロジェクト作者が確認した 009 の完成作品だけを追加し、それまでは別スタイルの投稿や画像を代用しません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
 
-将来の作例は 009 の応用範囲を示すだけで、主体、比喩、配色、文言、画角が生成参照や既定値になることはありません。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 009 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 4つの出力を支えるひとつの網点空間ロジック
 
