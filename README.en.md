@@ -22,6 +22,26 @@ XXD Panel 009 is an image-generation Skill for Codex and compatible agents. It l
 
 The image uses only a paper base, one main ink, and an optional mist layer. Every fog bank, depth cue, shadow, fade, and transition is made by halftone dots moving from dense to sparse—never digital blur or an ordinary gradient. Paper grain, screenprint ink, slight misregistration, and uneven coverage keep the print physical; type enters through horizon, contour, axis, halftone boundary, or negative shape.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 009 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 An “artful vintage poster” easily collapses into a template: shrink the subject, add old paper, paste in English catalogue numbers and a soft gradient, then call it poetic.
@@ -44,26 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Halftone carries transition:** fog, depth, shadow, and fading use dense-to-sparse dots only.
 - **Physical print evidence:** paper grain, ink, slight misregistration, and uneven coverage stay tactile without a cheap distressed filter.
 - **Intelligent type intervention:** a very short title and sparse microtype enter the horizon, contour, axis, halftone boundary, or negative shape.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
-> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 009 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

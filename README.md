@@ -22,6 +22,26 @@ XXD Panel 009 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面只使用纸张底色、主墨色和可选雾层色；所有雾气、远近、阴影、消散与过渡都由网点从密到疏完成，不使用数字模糊或普通渐变。纸纹、丝网油墨、轻微套印偏差与不均匀着墨保留真实版画感；文字沿地平线、轮廓、轴线、网点边界或负形进入构图。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 009 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 009
 
 普通“高级复古海报”很容易退化成模板：把主体缩小，套一层旧纸，再贴几个英文编号和普通渐变，就以为产生了诗意。
@@ -44,26 +64,6 @@ XXD Panel 009 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **网点承担过渡：** 雾、远近、阴影与消散全部由 halftone 从密到疏完成。
 - **真实物理印刷：** 保留纸纹、油墨、轻微套印偏差与不均匀着墨，拒绝廉价脏污滤镜。
 - **聪明的文字介入：** 极短标题与少量微字进入地平线、轮廓、轴线、网点边界或负形。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
-> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 009 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

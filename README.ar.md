@@ -24,6 +24,26 @@ XXD Panel 009 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 تقتصر الألوان على قاعدة ورقية وحبر رئيسي وطبقة ضباب اختيارية. يُبنى كل ضباب أو بُعد أو ظل أو تلاشي أو انتقال بنقاط نصفية تتحول من الكثيف إلى المتناثر، لا بضباب رقمي أو تدرج عادي. يبقى ملمس الورق وحبر الطباعة الحريرية وانزياح التسجيل الطفيف وعدم انتظام التحبير، ويدخل النص عبر الأفق أو المحيط أو المحور أو حدّ النقاط أو الفراغ السلبي.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 009 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 009؟
 
 يتحوّل «الملصق العتيق الراقي» بسهولة إلى قالب: يُصغَّر الموضوع، وتضاف ورقة قديمة وأرقام إنجليزية وتدرج ناعم، ثم تسمى النتيجة شاعرية.
@@ -46,26 +66,6 @@ XXD Panel 009 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **النقاط تصنع الانتقال:** يُبنى الضباب والعمق والظل والتلاشي بنقاط من الكثيف إلى المتناثر فقط.
 - **أثر طباعة مادي:** يبقى ملمس الورق والحبر وانزياح التسجيل وتفاوت التحبير من دون مرشح اتساخ رخيص.
 - **تدخل نصي ذكي:** يدخل عنوان شديد القصر ونص مجهري مقتصد في الأفق أو المحيط أو المحور أو حدّ النقاط أو الفراغ السلبي.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
-> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 009 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 009 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 009 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 
