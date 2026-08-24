@@ -1,71 +1,79 @@
-# XXD Panel 009 | Minimal Halftone Spatial Print Production Prompt
+# XXD Panel 009 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/009-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 009. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for this current task. Inspect it first and lock the principal subject or inseparable relation, contour, pose, action, direction, distance, boundary, material, and emotion. Preserve at least three source-specific recognition cues. Never borrow a subject, palette, copy, or composition from old outputs, samples, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Core translation
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Compress the complex photograph into one unique, minimal, instantly recognisable visual anchor. Follow “one subject or relation, one direction, one spatial relation”: choose only the most source-earned structure from horizontal extension, vertical extension, isolated suspension, outward dissipation, or shallow-to-deep recession. Do not combine several composition tricks.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Keep the anchor usually small. Make a vast paper-toned field the principal image and use blank space to express distance, air, pause, time, or isolation. Add only one horizon, boundary, shadow, or halftone band when it materially establishes space. Do not trace the photograph, add rich illustrative detail, or create several focal points.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## Colour and print
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Do not directly copy the photograph's overall palette. Derive its composite temperature, value, and emotional weight, then organise two or three spot colours:
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-- paper base: off-white, warm grey, or natural paper, occupying the largest area;
-- main ink: one quiet, weighty composite hue carrying the anchor and primary boundary;
-- mist layer: a lighter, greyer same-family hue used only when distance or depth requires it.
+### Text generated from the original prompt
 
-Permit one extremely small accent only when it has a clear narrative purpose. Establish hierarchy through colour area, value, and dot density. Reject rainbow palettes, cheap black-red drama, muddy vintage filters, and corporate colour systems.
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Every fog bank, distance cue, shadow, fade, dissipation, and spatial transition must be built with visible halftone dots moving naturally from dense to sparse. No digital blur, Gaussian blur, airbrush softness, ordinary gradient, or gradient mesh. Retain paper grain, screenprint ink, slight misregistration, incomplete coverage, and subtly uneven inking without turning the work into an indiscriminate dirty overlay.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## Copy and typography
+### User-exact text
 
-Obey the already resolved copy mode and target language or locale: automatic copy, exact user copy, or text-free. Preserve exact user copy verbatim—never rewrite, translate, spell-correct, or append. In text-free mode render no text or pseudo-text.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Automatic copy distils one extremely short title from the source's visible or supported subject, emotion, time, action, material, distance, or metaphor, then adds zero to three micro-elements only when useful. A restrained sentence, chapter-like marker, number, year, coordinate-like figure, or archival-style sign is allowed, but factual dates, coordinates, locations, years, numbers, and provenance must be supplied or reliably established; never fabricate them.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-Typography must participate in composition: run along the horizon, hug the anchor contour, form a vertical axis, cross a halftone boundary, hide within negative shape, or use controlled overlap, interweaving, interruption, and alignment. Split words, vertical setting, or wide spacing only when natural to the target writing system and still readable. Use a native high-end editorial equivalent for the locale: restrained sans, gentle serif, or minimal condensed type, light weight, strong scale contrast, and asymmetric hierarchy. Type and image belong to the same screenprint or letterpress pass, sharing grain and slight misregistration.
+### No text
 
-Copy must bind tightly to this photograph. Rewrite it if it survives an unrelated-image swap. Reject commercial advertising language, generic inspiration, a headline that dominates the image, decorative fake foreign text, and unrelated explanation.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-## Mode and canvas
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Obey the appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME`. The generated design must independently fill its design frame:
-
-- `TOP_BOTTOM`: generate only the lower design half, never the photograph, seam, or upper region;
-- `LEFT_RIGHT`: generate only the right design half, never the photograph, seam, or left region;
-- `DESIGN_ONLY`: generate the complete transformed design only, with no visible source photograph;
-- `WALLPAPER_PACK`: recompose for the named device, keep system-UI zones low-information, and render no clock, icons, dock, controls, or device mockup.
-
-For a linked wallpaper pack, the original photograph locks identity and content while the approved anchor locks only visual DNA: small-anchor grammar, one-direction/one-relation logic, negative-space hierarchy, spot-colour family, halftone transition, physical print evidence, and typography. Recompose every device independently; never crop the anchor or chain one device derivative into the next.
-
-## Hard acceptance gate
-
-- one small unique visual anchor preserving at least three source-specific cues;
-- exactly one dominant direction and one spatial relation;
-- paper-toned negative space is the largest field and carries meaning;
-- only two or three spot colours, with any accent tiny and earned;
-- all fog, depth, shadow, fading, and transition use dense-to-sparse halftone only;
-- credible screenprint and aged-paper evidence, never digital blur, ordinary gradients, or a cheap vintage filter;
-- copy is short, accurate, source-bound, and integrated into the spatial structure;
-- no multiple focal points, detailed illustration, commercial template, giant title, 3D, photo fragments, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 009-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```

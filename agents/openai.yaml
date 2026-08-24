@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-009"
-  short_description: "Create minimal halftone spatial screenprints."
-  default_prompt: "Use $xxd-panel-009 to translate my photo into one small source-bound anchor, vast paper-toned negative space, limited spot colours, dense-to-sparse halftone, and integrated editorial type; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 009 from its original style brief."
+  default_prompt: "Use $xxd-panel-009; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
