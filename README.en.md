@@ -16,16 +16,7 @@
 
 </div>
 
-> TINY ANCHOR · VAST NEGATIVE SPACE · ONE SPATIAL RELATION · SPOT COLOUR · HALFTONE SCREENPRINT
-
-XXD Panel 009 is an image-generation Skill for Codex and compatible agents. It locks the source's subject, contour, pose, and narrative relation, compresses complexity into one tiny but instantly recognisable anchor, then chooses only one direction and one spatial relation. A vast paper-toned field becomes distance, air, pause, and time.
-
-The image uses only a paper base, one main ink, and an optional mist layer. Every fog bank, depth cue, shadow, fade, and transition is made by halftone dots moving from dense to sparse—never digital blur or an ordinary gradient. Paper grain, screenprint ink, slight misregistration, and uneven coverage keep the print physical; type enters through horizon, contour, axis, halftone boundary, or negative shape.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
-> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ The image uses only a paper base, one main ink, and an optional mist layer. Ever
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
+> GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 009 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> TINY ANCHOR · VAST NEGATIVE SPACE · ONE SPATIAL RELATION · SPOT COLOUR · HALFTONE SCREENPRINT
+
+XXD Panel 009 is an image-generation Skill for Codex and compatible agents. It locks the source's subject, contour, pose, and narrative relation, compresses complexity into one tiny but instantly recognisable anchor, then chooses only one direction and one spatial relation. A vast paper-toned field becomes distance, air, pause, and time.
+
+The image uses only a paper base, one main ink, and an optional mist layer. Every fog bank, depth cue, shadow, fade, and transition is made by halftone dots moving from dense to sparse—never digital blur or an ordinary gradient. Paper grain, screenprint ink, slight misregistration, and uneven coverage keep the print physical; type enters through horizon, contour, axis, halftone boundary, or negative shape.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 009 right for you?
