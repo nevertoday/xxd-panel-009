@@ -42,6 +42,12 @@ XXD Panel 009는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 색은 종이 바탕, 주 잉크, 필요한 경우의 안개층으로 제한합니다. 안개·거리·그림자·소멸·전환은 모두 망점이 촘촘함에서 성김으로 변하며 표현하고 디지털 블러나 일반 그라데이션은 쓰지 않습니다. 종이결, 실크스크린 잉크, 미세한 판 어긋남과 고르지 않은 착묵을 남기며, 글자는 수평선·윤곽·축·망점 경계·네거티브 셰이프 안으로 들어갑니다.
 
+## 원본 프롬프트 · 5개 언어
+
+[통일된 다국어 디렉터리 열기](references/original-prompt/): [중국어 간체 원문](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+중국어 간체 파일은 샤오샤오둥이 제공한 문구를 그대로 보존하며 실행 시 유일한 미적 기준입니다. 다른 네 파일은 국제 독자의 이해와 공유를 위한 충실한 번역이며 이미지 생성 프롬프트를 역으로 바꾸지 않습니다.
+
 <!-- xxd-panel-benefit:start -->
 ## 빠른 판단: XXD Panel 009이 나에게 맞을까요?
 
@@ -78,7 +84,7 @@ XXD Panel 009는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
-`references/009-source.md`는 이 프로젝트의 유일한 창작·미적 기준입니다. Skill은 원문을 요약하거나 확장하지 않으며 공통 색상 계획, 미적 동기, 제목, 마이크로카피를 추가하지 않습니다. 색, 재료, 구성, 여백, 문구, 타이포그래피는 GPT Image 2가 원본 프롬프트의 규칙대로 수행합니다.
+`references/original-prompt/zh-CN.md`는 이 프로젝트의 유일한 창작·미적 기준입니다. Skill은 원문을 요약하거나 확장하지 않으며 공통 색상 계획, 미적 동기, 제목, 마이크로카피를 추가하지 않습니다. 색, 재료, 구성, 여백, 문구, 타이포그래피는 GPT Image 2가 원본 프롬프트의 규칙대로 수행합니다.
 
 모드와 크기는 원본의 변환 미학을 바꾸지 않고 기존 3:4 상하 출력 컨테이너를 완전히 대체합니다. 각 결과물에는 선택된 하나의 모드 계약만 GPT Image 2에 전달하며, 네 가지 대안을 하나의 범용 템플릿에서 해석하게 하지 않습니다.
 
@@ -225,7 +231,7 @@ $xxd-panel-009
 - [Skill 워크플로](SKILL.md)
 - [중문 런타임 어댑터](references/xxd-panel-009-prompt.zh-CN.md)
 - [영문 런타임 어댑터](references/xxd-panel-009-prompt.en.md)
-- [원본 스타일 지시](references/009-source.md)
+- [원본 스타일 지시](references/original-prompt/zh-CN.md)
 
 ## 경계와 신뢰
 
