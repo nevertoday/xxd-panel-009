@@ -50,16 +50,16 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 作例 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 009 作例 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 009 作例 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 009 作例 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 009 作例 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 009 作例 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 009 作例 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 009 作例 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 009 作例 8"></td>
   </tr>
 </table>
 
-> 追加サンプル：陳翔ポスターのグループから写真を1枚ランダムに選び、この Panel の原文ブリーフに従う16:9左右構成と英語の自動生成テキストで作成しました。
+> 追加サンプル：陳翔ポスターのグループから対応する陳翔ポスターグループの4枚をファイル名順に使用し、この Panel の原文ブリーフに従う16:9左右構成と英語の自動生成テキストで作成しました。
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
 > GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009

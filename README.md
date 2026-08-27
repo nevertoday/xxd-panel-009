@@ -50,16 +50,16 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 样张 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 009 样张 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 009 样张 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 009 样张 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 009 样张 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 009 样张 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 009 样张 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 009 样张 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 009 样张 8"></td>
   </tr>
 </table>
 
-> 本次新增样张：从陈翔海报分组随机抽取一张照片，使用本 Panel 原始提示词生成 16:9 左右双联，并由模型按原始文字逻辑生成英文文案。
+> 本次新增样张：从对应陈翔海报分组按文件名顺序使用四张照片，使用本 Panel 原始提示词生成 16:9 左右双联，并由模型按原始文字逻辑生成英文文案。
 
 > [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
 > GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
