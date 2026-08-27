@@ -27,7 +27,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 009 예시 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090078913930432919"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 009 예시 4"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 009 예시 5"></td>
+  </tr>
 </table>
+
+> 추가 예시: 천샹 포스터 그룹에서 사진 한 장을 무작위로 선택하고, 이 Panel의 원본 브리프에 따라 16:9 좌우 구성과 영어 자동 생성 문구로 제작했습니다.
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090078913930432919) · 2026-08-19<br>
 > GPT2 x 单色 x 网点设计 x 高级感 x 美学提示词 x VOL.009
