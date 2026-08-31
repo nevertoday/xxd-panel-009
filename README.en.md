@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 009
+# 🦁 XXD Panel 009｜Halftone Anchor Print
 
 ### Compress a photograph into one small anchor, vast paper space, and a dense-to-sparse halftone poem
 

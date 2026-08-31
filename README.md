@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 009
+# 🦁 XXD Panel 009｜网点锚印
 
 ### 把照片压缩成极小锚点、巨大留白与由密到疏的网点空间诗
 
