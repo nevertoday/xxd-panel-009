@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 009 project banner" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 009｜Halftone Anchor Print
@@ -323,7 +319,6 @@ xxd-panel-009/
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
 ├── assets/
-│   ├── banner.svg
 │   └── examples/ (reserved for future local samples)
 ├── scripts/
 │   ├── compose_panel.py
