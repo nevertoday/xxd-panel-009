@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-009"
-  short_description: "Create Panel 009 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-009; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "网点锚印：把照片压成一个极小锚点、巨大留白和由密到疏的网点版画"
+  default_prompt: "Use $xxd-panel-009 to turn my photo into Halftone Anchor Print artwork."
 
 policy:
   allow_implicit_invocation: true

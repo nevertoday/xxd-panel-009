@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 009｜Halftone Anchor Print: compresses a photo into one small visual anchor — a single key shape, action or spatial relation — set in vast paper space and printed like a minimal screenprint: one subject, one direction, a horizon or band of halftone dots that thins from dense to sparse for mist, distance and shadow (never digital blur or gradients), a two-to-three colour system of paper, one weighty main ink and a lighter mist tone, paper grain, uneven ink and slight misregistration, plus one very short title and one to three tiny groups of numbers, chapter marks or a quiet line woven into the composition. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-009 or asks for halftone screenprint posters, tiny-subject minimal prints or poetic risograph-like dot art from a photo.",
+  "short_description": "网点锚印：把照片压成一个极小锚点、巨大留白和由密到疏的网点版画",
+  "zh-CN": {
+    "name": "网点锚印",
+    "tagline": "把照片压成一个极小的锚点，放在大片纸面里，用由密到疏的网点印出距离和空气。",
+    "look": "只留下照片里最关键的一个形状、动作或空间关系，主体通常很小，靠一条地平线、一道边界或一条网点带建立空间，其余全是留白。雾气、距离、阴影和消散都用网点由密到疏自然消失来表现，没有数字模糊和普通渐变。颜色归纳成纸色、一种沉稳的主墨色和一种更浅更灰的雾层色，共两到三色，带纸张颗粒、丝网油墨、不均匀着墨和轻微套印偏差。文字只有一个极短标题加一到三组极小的编号、年份、章节号、坐标式数字或含蓄短句，沿地平线、纵轴或网点边界排进构图里。",
+    "traits": [
+      "极小主体",
+      "专色",
+      "Halftone",
+      "丝网印刷",
+      "由密到疏"
+    ],
+    "good": [
+      "主体小、空间大的照片：海边一个人、湖上一条船、雾中的灯塔、电线上一只鸟",
+      "有清楚方向或距离感的画面：一条笔直的路、远山、一列火车驶远",
+      "想做成安静的艺术版画、展览海报或书封的照片"
+    ],
+    "poor": [
+      "有多个焦点、需要同时交代很多内容的照片",
+      "想要色彩丰富或主体占满画面的效果",
+      "需要大标题、广告文案或醒目促销信息的设计"
+    ]
+  },
+  "en": {
+    "name": "Halftone Anchor Print",
+    "tagline": "Compresses a photo into one tiny anchor on vast paper, with halftone dots fading from dense to sparse for distance and air.",
+    "look": "Only the single most important shape, action or spatial relationship survives. The subject is usually small, with one horizon, edge or band of dots setting up the space and everything else left empty. Mist, distance, shadow and fading are all shown by halftone dots thinning from dense to sparse, never by digital blur or ordinary gradients. Colour is reduced to two or three: the paper, one weighty main ink and a lighter, greyer mist tone, with paper grain, screen ink, uneven coverage and slight misregistration. Text is one very short title plus one to three tiny groups of numbers, a year, chapter marks, coordinate-style figures or a quiet phrase, set along the horizon, a vertical axis or the edge of the dots.",
+    "traits": [
+      "Tiny subject",
+      "Spot colour",
+      "Halftone",
+      "Screenprint",
+      "Dense to sparse"
+    ],
+    "good": [
+      "Small subjects in big space: one person on a beach, a boat on a lake, a lighthouse in fog, a bird on a wire",
+      "Scenes with a clear direction or distance: a straight road, far mountains, a train pulling away",
+      "Photos you want as a quiet art print, exhibition poster or book cover"
+    ],
+    "poor": [
+      "Photos with several focal points or a lot to explain at once",
+      "Requests for rich colour or a subject that fills the frame",
+      "Designs that need a big headline, ad copy or a loud promotion"
+    ]
+  },
+  "ja": {
+    "name": "網点アンカープリント",
+    "tagline": "写真をごく小さな一点に絞り、広い紙の上に、密から疎へ消える網点で距離と空気を刷ります。",
+    "look": "写真のいちばん大事な形、動き、空間の関係を一つだけ残します。主役はたいてい小さく、地平線や境界、網点の帯一本で空間をつくり、残りはすべて余白です。霧、距離、影、消えていく様子は、すべて網点が密から疎へ自然に消えることで表し、デジタルぼかしや普通のグラデーションは使いません。色は紙の色、重みのある主インク一色、それより淡く灰がかった霧の色の二〜三色にまとめ、紙の粒子、シルクスクリーンのインク、むらのある刷り、わずかな版ずれを残します。文字はごく短いタイトル一つと、ごく小さな番号、年号、章番号、座標風の数字、控えめな一言を一〜三組だけ、地平線や縦軸、網点の境目に沿わせて構図に組み込みます。",
+    "traits": [
+      "ごく小さな主役",
+      "特色",
+      "ハーフトーン",
+      "シルクスクリーン",
+      "密から疎へ"
+    ],
+    "good": [
+      "主役が小さく空間が広い写真：海辺の一人、湖の小舟、霧の灯台、電線の鳥",
+      "方向や距離がはっきりした場面：まっすぐな道、遠い山並み、遠ざかる列車",
+      "静かなアートプリント、展覧会ポスター、本の表紙にしたい写真"
+    ],
+    "poor": [
+      "焦点がいくつもあり、一度に多くを伝えたい写真",
+      "色の豊かさや、主役が画面を埋める仕上がりを求める場合",
+      "大きな見出し、広告コピー、目立つ販促情報が必要なデザイン"
+    ]
+  },
+  "ko": {
+    "name": "하프톤 앵커 프린트",
+    "tagline": "사진을 아주 작은 기준점 하나로 줄여 넓은 종이 위에, 촘촘함에서 성김으로 사라지는 망점으로 거리와 공기를 찍어 냅니다.",
+    "look": "사진에서 가장 중요한 형태, 동작, 공간 관계 하나만 남깁니다. 주인공은 대개 작고, 지평선이나 경계, 망점 띠 하나로 공간을 세우며 나머지는 모두 여백입니다. 안개, 거리, 그림자, 흩어짐은 모두 망점이 촘촘함에서 성김으로 자연스럽게 사라지는 방식으로 표현하고, 디지털 블러나 일반 그라데이션은 쓰지 않습니다. 색은 종이색, 무게감 있는 주 잉크 한 가지, 더 옅고 회색빛인 안개색까지 두세 가지로 줄이고, 종이 결, 실크스크린 잉크, 고르지 않은 인쇄, 약간의 판 어긋남을 남깁니다. 글자는 아주 짧은 제목 하나와 아주 작은 번호, 연도, 장 번호, 좌표 같은 숫자, 함축적인 한 줄을 한두 세 묶음만 지평선이나 세로축, 망점 경계를 따라 구도 안에 넣습니다.",
+    "traits": [
+      "아주 작은 주인공",
+      "별색",
+      "하프톤",
+      "실크스크린",
+      "촘촘함에서 성김으로"
+    ],
+    "good": [
+      "주인공은 작고 공간은 넓은 사진: 바닷가의 한 사람, 호수 위 배, 안개 속 등대, 전깃줄 위 새",
+      "방향이나 거리감이 분명한 장면: 곧게 뻗은 길, 먼 산, 멀어지는 기차",
+      "조용한 아트 프린트, 전시 포스터, 책 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "초점이 여러 개이거나 한 번에 많은 내용을 담아야 하는 사진",
+      "색이 풍부하거나 주인공이 화면을 가득 채우는 결과를 원하는 경우",
+      "큰 제목, 광고 문구, 눈에 띄는 홍보 정보가 필요한 디자인"
+    ]
+  },
+  "ar": {
+    "name": "طبعة الترسيخ النقطية",
+    "tagline": "يختصر الصورة في نقطة ارتكاز صغيرة جداً على ورق واسع، بنقاط شبكية تتلاشى من الكثيف إلى المتفرّق لتصنع المسافة والهواء.",
+    "look": "لا يبقى من الصورة إلا شكل أو حركة أو علاقة مكانية واحدة هي الأهم. يكون العنصر صغيراً في العادة، ويقوم المكان على خط أفق واحد أو حدّ أو شريط من النقاط، وما عدا ذلك فراغ. يُعبَّر عن الضباب والمسافة والظل والتلاشي كلها بنقاط شبكية تخفّ من الكثيف إلى المتفرّق، لا بالتمويه الرقمي ولا بالتدرّج العادي. يُختصر اللون في اثنين أو ثلاثة: لون الورق، وحبر رئيسي واحد ثقيل، ولون ضبابي أفتح وأكثر رمادية، مع حبيبات الورق وحبر الطباعة الحريرية والتحبير غير المتساوي وانزياح طباعي خفيف. النص عنوان قصير جداً ومعه مجموعة إلى ثلاث مجموعات صغيرة جداً من الأرقام أو سنة أو أرقام فصول أو أرقام بهيئة إحداثيات أو عبارة هادئة، تُصفّ على خط الأفق أو محور عمودي أو حافة النقاط.",
+    "traits": [
+      "عنصر صغير جداً",
+      "لون خاص",
+      "نقاط شبكية",
+      "طباعة حريرية",
+      "من الكثيف إلى المتفرّق"
+    ],
+    "good": [
+      "عناصر صغيرة في مساحة كبيرة: شخص على الشاطئ، قارب على بحيرة، منارة في الضباب، طائر على سلك",
+      "مشاهد فيها اتجاه أو مسافة واضحة: طريق مستقيم، جبال بعيدة، قطار يبتعد",
+      "صور تريدها مطبوعة فنية هادئة أو ملصق معرض أو غلاف كتاب"
+    ],
+    "poor": [
+      "صور فيها بؤر متعددة أو الكثير مما يجب شرحه دفعة واحدة",
+      "طلب ألوان غنية أو عنصر يملأ الإطار",
+      "تصاميم تحتاج إلى عنوان كبير أو نص إعلاني أو ترويج لافت"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-009
-description: "Create XXD Panel 009 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-009 or requests the exact Panel 009 style."
+description: "XXD Panel 009｜Halftone Anchor Print: compresses a photo into one small visual anchor — a single key shape, action or spatial relation — set in vast paper space and printed like a minimal screenprint: one subject, one direction, a horizon or band of halftone dots that thins from dense to sparse for mist, distance and shadow (never digital blur or gradients), a two-to-three colour system of paper, one weighty main ink and a lighter mist tone, paper grain, uneven ink and slight misregistration, plus one very short title and one to three tiny groups of numbers, chapter marks or a quiet line woven into the composition. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-009 or asks for halftone screenprint posters, tiny-subject minimal prints or poetic risograph-like dot art from a photo."
 ---
 
 # XXD Panel 009
